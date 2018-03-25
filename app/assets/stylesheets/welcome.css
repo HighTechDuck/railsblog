@@ -1,0 +1,22 @@
+
+body {
+  background-color: turquoise;
+  max-width: 60%;
+  margin: 0 auto;
+  color: white;
+}
+
+a, a:visited, a:active {
+  color: white;
+  font-family: inherit;
+}
+
+h1{
+  font-family: inherit;
+  text-align: center;
+  padding-top: 3%;
+  padding-bottom: 5%;
+}
+
+tr{
+}
